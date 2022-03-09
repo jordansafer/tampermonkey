@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://*/*
+// @match        http://*/*
 // @grant        none
 // @run-at: document-start
 // ==/UserScript==
